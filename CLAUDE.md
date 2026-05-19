@@ -57,10 +57,11 @@ issuesディレクトリのタスクを順番に実行する:
 5. **task5.md** - Skill 作成
 6. **task6.md** - サブエージェント作成
 7. **task7.md** - ペアプログラミング（総合演習：新機能実装）
-8. **task8.md** - BiomeとGitHub Actions CIの導入
-9. **task9.md** - Vitestでヘルスチェックappの単体テストを書く
-10. **task10.md** - CI/CD統合（テスト・ビルドの並列化と手動トリガー）
-11. **task11.md** - Skills（発展）
+8. **task8-a.md** - GitHub Fork と push 先のセットアップ
+9. **task8.md** - BiomeとGitHub Actions CIの導入
+10. **task9.md** - Vitestでヘルスチェックappの単体テストを書く
+11. **task10.md** - CI/CD統合（テスト・ビルドの並列化と手動トリガー）
+12. **task11.md** - Skills（発展）
 
 ## アーキテクチャ
 

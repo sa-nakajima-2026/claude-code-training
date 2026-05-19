@@ -518,7 +518,7 @@ Claude Codeとのペアプログラミングはいかがでしたか？
 
 ## 次のステップ
 
-✅ Task 7が完了したら、全タスククリア！おめでとうございます！
+✅ Task 7 が完了したら、[task8-a.md](./task8-a.md) に進んで GitHub Fork と push 先のセットアップを行いましょう！その後 task8（Biome + CI）以降に進みます。
 
 今後は：
 1. 実際のプロジェクトでClaude Codeを使ってみる

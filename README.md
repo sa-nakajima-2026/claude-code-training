@@ -68,6 +68,7 @@ claude-code-training/
 │   ├── task5.md   # Skill 作成
 │   ├── task6.md   # サブエージェント作成
 │   ├── task7.md   # ペアプログラミング（新機能実装）
+│   ├── task8-a.md # GitHub Fork と push 先のセットアップ
 │   ├── task8.md   # BiomeとGitHub Actions CI
 │   ├── task9.md   # Vitestで単体テスト
 │   ├── task10.md  # CI/CD統合（テスト自動実行と手動トリガー）
