@@ -29,3 +29,9 @@ export interface HealthCheckResponse {
   status: "ok";
   timestamp: string;
 }
+
+export interface GeocodingResult {
+  title: string;
+  lat: number;
+  lng: number;
+}
