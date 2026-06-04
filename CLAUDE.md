@@ -24,7 +24,7 @@ claude-code-training/
 │   └── package.json
 ├── homework/                         # 宿題・課題ファイル
 │   └── note.txt
-└── issues/                          # 学習タスク（task1.md〜task11.md）
+└── issues/                          # 学習タスク（task1.md〜task12.md）
 ```
 
 ## 開発コマンド
@@ -62,6 +62,7 @@ issuesディレクトリのタスクを順番に実行する:
 10. **task9.md** - Vitestでヘルスチェックappの単体テストを書く
 11. **task10.md** - CI/CD統合（テスト・ビルドの並列化と手動トリガー）
 12. **task11.md** - Skills（発展）
+13. **task12.md** - コーポレートサイト改善モックを実装する
 
 ## アーキテクチャ
 

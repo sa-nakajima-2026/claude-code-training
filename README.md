@@ -72,7 +72,8 @@ claude-code-training/
 │   ├── task8.md   # BiomeとGitHub Actions CI
 │   ├── task9.md   # Vitestで単体テスト
 │   ├── task10.md  # CI/CD統合（テスト自動実行と手動トリガー）
-│   └── task11.md  # Skills（発展）
+│   ├── task11.md  # Skills（発展）
+│   └── task12.md  # コーポレートサイト改善モック
 └── README.md                       # このファイル
 ```
 
