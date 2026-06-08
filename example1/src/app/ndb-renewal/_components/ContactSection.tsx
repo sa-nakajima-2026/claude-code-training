@@ -13,6 +13,7 @@ export function ContactSection() {
           target="_blank"
           rel="noopener noreferrer"
           className={styles.btn}
+          aria-label="お問い合わせフォームへ（新しいタブで開く）"
         >
           お問い合わせフォームへ
         </a>
