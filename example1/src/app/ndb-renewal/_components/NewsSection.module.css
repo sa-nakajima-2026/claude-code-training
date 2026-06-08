@@ -1,0 +1,43 @@
+.section {
+  padding: 80px 24px;
+  background: #fff;
+}
+
+.inner {
+  max-width: 720px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.heading {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--ndb-primary);
+  margin-bottom: 24px;
+}
+
+.notice {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 24px;
+  line-height: 1.75;
+}
+
+.link {
+  display: inline-block;
+  color: var(--ndb-accent);
+  font-size: 1rem;
+  font-weight: 600;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s;
+}
+
+.link:hover {
+  border-color: #0066cc;
+}
+
+@media (max-width: 640px) {
+  .section {
+    padding: 60px 20px;
+  }
+}
