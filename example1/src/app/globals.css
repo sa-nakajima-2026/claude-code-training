@@ -1,6 +1,12 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+
+  /* ndb-renewal design tokens */
+  --ndb-primary: #1a2f5a;
+  --ndb-accent: #0066cc;
+  --ndb-accent-hover: #0052a3;
+  --ndb-bg-light: #f5f7fa;
 }
 
 @media (prefers-color-scheme: dark) {
