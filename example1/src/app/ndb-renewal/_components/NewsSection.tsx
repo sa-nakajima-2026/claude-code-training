@@ -13,8 +13,9 @@ export function NewsSection() {
           target="_blank"
           rel="noopener noreferrer"
           className={styles.link}
+          aria-label="お知らせ一覧を見る（新しいタブで開く）"
         >
-          お知らせ一覧を見る →
+          お知らせ一覧を見る
         </a>
       </div>
     </section>

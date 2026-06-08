@@ -19,8 +19,9 @@ export function RecruitSection() {
           target="_blank"
           rel="noopener noreferrer"
           className={styles.link}
+          aria-label="採用ページを見る（新しいタブで開く）"
         >
-          採用ページを見る →
+          採用ページを見る
         </a>
       </div>
     </section>
